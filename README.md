@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm finnhub783 👋
 
-<!--
-**finnhub783/finnhub783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer based in Tokyo, currently building at Creative Lab. Most of my day goes into TypeScript across the stack, building lightweight internal tools, and writing clean backend services.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Building web tools and REST APIs with Node.js and Express
+- Digging into SQLite edge cases and local-first data patterns
+- Crafting functional, snappy UIs with React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily Driver Stack
+- **Languages:** TypeScript, JavaScript, SQL
+- **Backend:** Node.js, Express
+- **Database:** SQLite
+- **Frontend:** React
+
+#### Connect
+- Mail: `finnhub783.dev@gmail.com`
+- GitHub Issues or PRs on my repos are always welcome.
